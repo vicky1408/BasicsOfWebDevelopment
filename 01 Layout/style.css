@@ -10,7 +10,7 @@ body {
 header {
     width: 80%;
     height: 100px;
-    display: block;
+    display: inline;
     background: orange;
     text-align: center;
 }
